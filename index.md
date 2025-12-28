@@ -7,8 +7,8 @@ title: Jennifer Esbel Mary
   <h1>Jennifer Esbel Mary</h1>
   <p><b>Engineering Sciences | Biosciences & Bioengineering | Healthcare Informatics</b></p>
   <div style="margin-top: 15px;">
-    <a href="mailto:jenniferchristy0507@gmail.com" class="pink-btn">Email Me ✨</a>
-    <a href="https://www.linkedin.com/in/jenniferesbelmary/" class="pink-btn">LinkedIn 🎀</a>
+    <a href="mailto:jennifer@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </div>
 </div>
 
