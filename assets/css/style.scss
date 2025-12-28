@@ -2,33 +2,63 @@
 ---
 @import "{{ site.theme }}";
 
+// --- CUSTOM FONTS ---
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Playfair+Display:ital,wght@1,700&display=swap');
+
 :root {
-  --main-pink: #FF69B4;
-  --light-pink: #FFF0F5;
-  --dark-pink: #C71585;
+  --hot-pink: #FF69B4;
+  --soft-pink: #FFB6C1;
+  --glass-white: rgba(255, 255, 255, 0.7);
+  --dark-text: #4A4A4A;
 }
 
 body {
-  background-color: var(--light-pink);
-  color: #333;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #FFF0F5 0%, #FFDEE9 100%);
+  color: var(--dark-text);
+  line-height: 1.6;
 }
 
-h1, h2, h3 {
-  color: var(--dark-pink) !important;
+// --- GLASSMORPHISM CARDS ---
+.card {
+  background: var(--glass-white);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  padding: 25px;
+  margin-bottom: 30px;
+  border: 1px solid rgba(255, 105, 180, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(255, 182, 193, 0.37);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 40px 0 rgba(255, 105, 180, 0.45);
+  }
 }
 
-a {
-  color: var(--main-pink);
-  text-decoration: none;
-  font-weight: bold;
+// --- BEAUTIFUL TITLES ---
+h1, h2 {
+  font-family: 'Playfair Display', serif;
+  color: var(--hot-pink) !important;
+  border-bottom: 2px dashed var(--soft-pink);
+  padding-bottom: 5px;
 }
 
-a:hover {
-  color: var(--dark-pink);
-  text-shadow: 0px 0px 8px #FFB6C1;
+// --- ANIMATED PINK SCROLLBAR ---
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #FFF0F5; }
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(var(--soft-pink), var(--hot-pink));
+  border-radius: 10px;
 }
 
+// --- CUSTOM BUTTONS ---
 .btn {
-  background-color: var(--main-pink) !important;
-  border: none !important;
+  background: linear-gradient(45deg, var(--hot-pink), #FF1493) !important;
+  color: white !important;
+  border-radius: 50px !important;
+  padding: 10px 25px !important;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
