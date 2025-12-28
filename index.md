@@ -14,7 +14,7 @@ title: Jennifer Esbel Mary
 
 ---
 
-<div class="glass-card">
+<div class="glass-card" markdown="1">
   
 ## Education
   
@@ -31,7 +31,7 @@ title: Jennifer Esbel Mary
   
 </div>
 
-<div class="glass-card">
+<div class="glass-card" markdown="1"> 
   
 ## Research & Projects
 
@@ -46,7 +46,7 @@ title: Jennifer Esbel Mary
 
 </div>
 
-<div class="glass-card">
+<div class="glass-card" markdown="1">
   
 ## Leadership & Impact
   
@@ -56,7 +56,7 @@ title: Jennifer Esbel Mary
 
 </div>
 
-<div class="glass-card">
+<div class="glass-card" markdown="1">
   
 ## Technical Toolkit 
   
