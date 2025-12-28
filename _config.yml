@@ -1,6 +1,28 @@
-title: Jennifer Esbel Mary
-description: Neuroscience | Cognitive Science | Computational Biology
-remote_theme: pages-themes/cayman@v0.2.0
+# Theme Settings
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "air" # We will override this with pink in your CSS
 
+# Site Metadata
+title: "Jennifer Esbel Mary"
+name: "Jennifer Esbel Mary"
+description: "Engineering Sciences | Biosciences & Bioengineering | Healthcare Informatics"
+url: "https://jaynferrrre.github.io"
+baseurl: ""
+
+# Author Profile (Sidebar)
+author:
+  name: "Jennifer Esbel Mary"
+  avatar: "/assets/images/avatar.jpg" # Add your photo here!
+  bio: "BS Candidate at **IIT Bombay**"
+  location: "Mumbai, India"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jenniferesbelmary/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Jaynferrrre"
+
+# Performance
 sass:
   style: :compressed
