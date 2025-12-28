@@ -10,15 +10,9 @@ B.S. in Engineering Sciences | IIT Bombay **Minors:** Biosciences and Bioenginee
 
 | Examination | University | Institute | Year | CPI/% |
 | --- | --- | --- | --- | --- |
-| **Graduation (B.S.)** | IIT Bombay | IIT Bombay | 2028 | 6.95 
-
- |
-| **Intermediate** | CBSE | Suguna PIP School | 2024 | 93.8% 
-
- |
-| **Matriculation** | CBSE | Suguna PIP School | 2022 | 97.40% 
-
- |
+| **Graduation (B.S.)** | IIT Bombay | IIT Bombay | 2028 | 6.95 |
+| **Intermediate** | CBSE | Suguna PIP School | 2024 | 93.8% |
+| **Matriculation** | CBSE | Suguna PIP School | 2022 | 97.40% |
 
 * 
 **Specialization**: Engineering Sciences 
