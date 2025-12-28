@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Jennifer Esbel Mary 
 header:
   overlay_color: "#FF1493"
