@@ -23,7 +23,7 @@ title: Jennifer Esbel Mary | Resume
 | **Class XII** | Suguna PIP School (CBSE) | 2024 | Intermediate | **93.8%** |
 | **Class X** | Suguna PIP School (CBSE) | 2022 | Matriculation | **97.4%** |
 
-* **Scholastic Honors:**
+## Scholastic Honors:
   * **Branch Change:** Selected as 1 of 15 students (out of 1400+) for the Centre for Liberal Education.
   * **JEE Advanced:** Ranked in the top **4.99 percentile** among 180,000+ candidates.
   * **JEE Mains:** Ranked in the top **0.85 percentile** among 1.4 million+ candidates.
