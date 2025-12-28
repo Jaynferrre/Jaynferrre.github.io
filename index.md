@@ -4,7 +4,6 @@ title: Jennifer Esbel Mary
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="100" style="border-radius: 50%;">
   <h1>Jennifer Esbel Mary</h1>
   <p><b>Engineering Sciences | Biosciences & Bioengineering | Healthcare Informatics</b></p>
   <div style="margin-top: 15px;">
