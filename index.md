@@ -53,6 +53,7 @@ title: Jennifer Esbel Mary
 
 <div class="glass-card">
 ## Technical Toolkit
+  
 * **Programming:** Python, C++, R, LaTeX, MySQL.
 * **DS & ML:** Scikit-learn, Pandas, NumPy, TensorFlow, Statsmodels.
 * **Bio-Imaging:** NiBabel, Matplotlib, Seaborn.
