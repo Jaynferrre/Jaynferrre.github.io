@@ -28,6 +28,7 @@ title: Jennifer Esbel Mary
 * **Branch Change:** Selected as 1 of 15/1400+ students for the Centre for Liberal Education.
 * **JEE Advanced:** Top **4.99 percentile** among 0.18M+ candidates.
 * **JEE Mains:** Top **0.85 percentile** among 1.4M+ candidates.
+  
 </div>
 
 <div class="glass-card">
@@ -42,6 +43,7 @@ title: Jennifer Esbel Mary
 ### **The Architecture of Rest (Seminar)**
 * Analyzed **Elastic Weight Consolidation** in ANNs to resolve stability-plasticity dilemmas.
 * Mapped neurobiological "sleep" functions to optimized maintenance protocols in AI.
+
 </div>
 
 <div class="glass-card">
@@ -51,6 +53,7 @@ title: Jennifer Esbel Mary
 * **Creatives Manager (IIC):** Managing digital branding for hackathons reaching **50,000+**.
 * **Sustainability Volunteer:** Conducted audits for events with **200,000+** footfall.
 * **iGEM Outreach:** **Silver Medalist** at the 2025 Grand Jamboree; won **Best Project Poster**.
+
 </div>
 
 <div class="glass-card">
@@ -60,6 +63,7 @@ title: Jennifer Esbel Mary
 * **Programming:** Python, C++, R, LaTeX, MySQL.
 * **DS & ML:** Scikit-learn, Pandas, NumPy, TensorFlow, Statsmodels.
 * **Bio-Imaging:** NiBabel, Matplotlib, Seaborn.
+
 </div>
 
 <div align="center">
