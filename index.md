@@ -2,10 +2,6 @@
 layout: default
 title: Jennifer Esbel Mary | Resume
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" style="border-radius: 50%; border: 5px solid #FF69B4;">
-</p>
-
 <h1 align="center">Jennifer Esbel Mary</h1>
 <p align="center">
   **B.S. Engineering Sciences | IIT Bombay**<br>
@@ -46,7 +42,6 @@ title: Jennifer Esbel Mary | Resume
 `NiBabel` • `Matplotlib` • `Seaborn` 
 
 ---
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/l41lTfuxmQ9GzI95S/giphy.gif" width="150">
 ## Positions of Responsibility
 
 ### **Creatives Manager** | **Institute Innovation Council**
