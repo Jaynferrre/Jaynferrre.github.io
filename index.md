@@ -1,10 +1,6 @@
 ---
-layout: single
-author_profile: true
-header:
-  overlay_color: "#FF1493"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/pink_disney_girls.jpg
+layout: default
+title: Jennifer Esbel Mary | IIT Bombay
 ---
 
 <div align="center">
