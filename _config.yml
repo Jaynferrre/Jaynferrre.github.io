@@ -1,8 +1,5 @@
-theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 title: "Jennifer's Portfolio"
 description: "Engineering Sciences @ IIT Bombay"
-
-# This ensures your custom pink CSS is actually used
 sass:
   style: :compressed
